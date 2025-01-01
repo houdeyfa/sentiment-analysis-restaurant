@@ -22,7 +22,8 @@ Enjoy exploring the model and running sentiment analysis experiments!
 ## Thanks to
 
 - **[Dataset for Training](https://huggingface.co/datasets/SetFit/tweet_sentiment_extraction?row=2)**  
-  This project uses the [SetFit/tweet_sentiment_extraction]([https://huggingface.co/datasets/SetFit/tweet_sentiment_extraction) dataset for model training](https://huggingface.co/datasets/SetFit/tweet_sentiment_extraction?row=2).
+  This project uses the [SetFit/tweet_sentiment_extraction](https://huggingface.co/datasets/SetFit/tweet_sentiment_extraction?row=2) dataset for model training.
+
 
 - **[Dataset for Restaurants](https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews)**  
   The restaurant-specific sentiment dataset was sourced from [Restaurant Sentiment Dataset](https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews).
