@@ -16,3 +16,16 @@ You can try out the code directly in Google Colab. Make sure to **switch to the 
 4. Click `Save`.
 
 Enjoy exploring the model and running sentiment analysis experiments!
+
+---
+
+## Thanks to
+
+- **[Dataset for Training](https://huggingface.co/datasets/SetFit/tweet_sentiment_extraction?row=2)**  
+  This project uses the [SetFit/tweet_sentiment_extraction]([https://huggingface.co/datasets/SetFit/tweet_sentiment_extraction) dataset for model training](https://huggingface.co/datasets/SetFit/tweet_sentiment_extraction?row=2).
+
+- **[Dataset for Restaurants](https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews)**  
+  The restaurant-specific sentiment dataset was sourced from [Restaurant Sentiment Dataset](https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews).
+
+- **[Tutorial Link](https://huggingface.co/blog/sentiment-analysis-python)**  
+  A comprehensive guide for setting up and running sentiment analysis was followed from this [HuggingFace Tutorial](https://huggingface.co/blog/sentiment-analysis-python).
